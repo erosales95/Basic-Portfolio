@@ -1,3 +1,5 @@
+/* font-size 16, line height 1.5 */
+
 h1 {
     padding: 20px;
     margin:  0;
@@ -5,7 +7,6 @@ h1 {
     font-size: 28px;
     float: left;
     background-color: #4aaaa5;
-    margin-left: 0%;
     font-family: Georgia, Times, "Times New Roman", serif;
 }
 
@@ -26,7 +27,6 @@ h2 {
     font-size: 20px;
     text-align: right;
     float: right;
-    margin-right: 0%;
     font-family: Georgia, Times, "Times New Roman", serif;
     
  }
@@ -49,3 +49,5 @@ footer {
     bottom: 0;
     width: 100%;
  }
+ 
+ 
