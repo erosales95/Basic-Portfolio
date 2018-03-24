@@ -14,6 +14,7 @@
 }
 
 
+
 h3 {
      font-size: 28px;
      line-height: 2em;
@@ -41,5 +42,9 @@ h3 {
 
  h2 {
      margin: 0 auto;
+ }
+
+ header {
+     margin-bottom: 30px;
  }
  
